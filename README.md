@@ -9,12 +9,15 @@
 🛠 Tech Stack
 
 💻 Development
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,python" />
 
 📊 Data & Tools
+
 <img src="https://skillicons.dev/icons?i=python,pandas,numpy,excel,powerbi" />
 
 🛡 Cybersecurity & Systems
+
 <img src="https://skillicons.dev/icons?i=linux,bash,git,docker" />
 
 
