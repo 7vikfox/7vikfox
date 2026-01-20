@@ -17,7 +17,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy" />
 </p>
+
 **Excel** | **Power BI**
+
 
 🛡 Cybersecurity & Systems
 
