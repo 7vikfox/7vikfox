@@ -14,12 +14,28 @@
 
 📊 Data & Tools
 
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,excel,powerbi" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy" />
+</p>
+**Excel** | **Power BI**
 
 🛡 Cybersecurity & Systems
 
 <img src="https://skillicons.dev/icons?i=linux,bash,git,docker" />
 
+🛠 Tools & Editors
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,intellij" alt="VSCode IntelliJ" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/figma.svg" alt="Figma" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" alt="Notion" width="30" height="30" />
+</p>
+
+### 🎨 Design & Misc
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="Photoshop Illustrator" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" alt="Canva" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sketch.svg" alt="Sketch" width="30" height="30" />
+</p>
 
 
 🧠 Core Knowledge
