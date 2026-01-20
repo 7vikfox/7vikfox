@@ -2,42 +2,36 @@
 
 🎓 Student & self-learning technologist  
 💻 Interested in **Full-Stack Development** and **Cybersecurity**  
-🧠 Exploring system design, development, and security from end to end
+🧠 Exploring system design, development, and security end to end
 
 
-🛠 Tech & Tools
+
+🛠 Tech Stack
 
 💻 Development
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,python" />
 
-📊 Data & Analysis
+📊 Data & Tools
 <img src="https://skillicons.dev/icons?i=python,pandas,numpy,excel,powerbi" />
 
-🧠 Core Concepts
-- **Database Management System (DBMS)**
-- **Data Structures & Algorithms (DSA)**
-- **Computer Networking**
-- **Secure Coding Practices**
-
-🛡 Cybersecurity (Defense & Ethical Hacking Basics)
+🛡 Cybersecurity & Systems
 <img src="https://skillicons.dev/icons?i=linux,bash,git,docker" />
 
-- Linux & Command Line
-- Networking & System Fundamentals
-- Security Awareness & Defensive Practices
+
+
+🧠 Core Knowledge
+- Data Structures & Algorithms (DSA)
+- Database Management Systems (DBMS)
+- Computer Networking
+- Secure Coding Practices
+- System & Network Fundamentals
 
 
 
 🌱 Currently
-- Strengthening full-stack development skills
-- Learning cybersecurity alongside system design
-- Practicing problem-solving and secure development
+- Strengthening full-stack fundamentals
+- Learning cybersecurity alongside development
+- Building and securing small real-world projects
 
-
-
-🎯 Goal
-- Build secure, real-world applications  
-- Develop strong foundations in development & cybersecurity  
-- Keep learning and improving consistently
 
 ⭐ Curious by nature. Learning by building.
