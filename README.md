@@ -1,4 +1,4 @@
-**Hi 👋 I'm 7xfox**
+**Hi 👋 I'm 7vikfox**
 
 🎓 Student & self-learning technologist  
 💻 Interested in **Full-Stack Development** and **Cybersecurity**  
