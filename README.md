@@ -7,7 +7,12 @@
 <a href="https://7vikfox.github.io/learning-hub/" target="_blank">
   <button>Learning Hub</button>
 </a>
+## 🌐 Connect With Me
 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/satwik-pandey-6a722b214/)
+- 💻 [GitHub](https://github.com/7vikfox)
+- 🌍 [Portfolio](https://7vikfox.github.io/resume)
+- 🧠 [LeetCode](https://leetcode.com/u/o38McfkCoZ)
 
 🛠 Tech Stack
 
