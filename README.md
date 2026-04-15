@@ -20,12 +20,12 @@
 
 💻 Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python" />
 
 📊 Data & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqllite,mongodb,pandas,numpy" />
 </p>
 
 **Excel** | **Power BI**
