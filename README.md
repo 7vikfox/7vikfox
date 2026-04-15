@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=python,mysql,sqllite,mongodb,pandas,numpy" />
 </p>
 
-**Excel** | **Power BI**
+**Excel** | **Power BI** | **PANDA, NUMPY , MATPLOTLIB**
 
 
 🛡 Cybersecurity & Systems
@@ -37,7 +37,7 @@
 
 🛠 Tools & Editors
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,intellij" alt="VSCode IntelliJ" />
+  <img src="https://skillicons.dev/icons?i=vscode,notepad,intellij" alt="VSCode IntelliJ" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/figma.svg" alt="Figma" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" alt="Notion" width="30" height="30" />
 </p>
