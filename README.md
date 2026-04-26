@@ -94,6 +94,11 @@
   <b>Excel</b> • <b>Power BI</b> • <b>Pandas</b> • <b>NumPy</b> • <b>Matplotlib</b>
 </p>
 
+### ☁️ Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,vercel,netlify&theme=dark" />
+</p>
+
 ### 🛡 Cybersecurity & Systems
 
 <p align="center">
