@@ -1,4 +1,4 @@
-````md
+```md
 <!-- 🔥 SMOKY HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=7vikfox&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Code%20|%20Exploit%20|%20Secure&descAlignY=60"/>
@@ -16,7 +16,6 @@
 + Initializing system...
 + Loading modules: Development | Security
 + Status: Learning • Building • Breaking • Securing
-````
 
 🎓 **Student | Self-Taught Technologist**
 💻 Passionate about **Full-Stack Development** & **Cybersecurity**
