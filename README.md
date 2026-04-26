@@ -108,7 +108,7 @@
 ### 🛠 Tools & Environments
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,intellij&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,intellij&theme=dark" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/figma.svg" width="28" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" width="28" />
 </p>
