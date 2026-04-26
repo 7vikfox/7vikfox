@@ -77,21 +77,22 @@
 
 ## 🧰 Tech Stack
 
+
 ### 💻 Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python&theme=dark" />
 </p>
 
-### 📊 Data & Tools
+### 📊 Data & Analytics
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,mongodb,pandas,numpy&theme=dark" />
 </p>
 
-📈 **Excel • Power BI • Pandas • NumPy • Matplotlib**
-
-
+<p align="center">
+  <b>Excel</b> • <b>Power BI</b> • <b>Pandas</b> • <b>NumPy</b> • <b>Matplotlib</b>
+</p>
 
 ### 🛡 Cybersecurity & Systems
 
@@ -99,9 +100,7 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,git,docker&theme=dark" />
 </p>
 
-
-
-### 🛠 Tools & Editors
+### 🛠 Tools & Environments
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,intellij&theme=dark" />
@@ -109,15 +108,12 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" width="28" />
 </p>
 
-
 ### 🎨 Design & Creativity
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator&theme=dark" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" width="28" />
 </p>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2"/>
 
