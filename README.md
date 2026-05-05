@@ -1,11 +1,12 @@
-<!-- 🔥 SMOKY HEADER -->
+````md
+<!-- 🔥 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=7vikfox&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Code%20|%20Exploit%20|%20Secure&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=7vikfox&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Cloud%20|%20Data%20|%20Analytics&descAlignY=60"/>
 </p>
 
 <!-- 💨 TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;Cybersecurity+Explorer;Building+%7C+Breaking+%7C+Securing;Learning+Never+Stops..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cloud+Enthusiast;Data+Analyst+in+Progress;Business+Insights+Builder;Turning+Data+into+Decisions..." />
 </p>
 
 
@@ -13,37 +14,32 @@
 
 ```diff
 + Initializing system...
-+ Loading modules: Development | Security
-+ Status: Learning • Building • Breaking • Securing
-```
++ Loading modules: Cloud | Data | Analytics
++ Status: Learning • Analyzing • Building • Optimizing
+````
 
-🎓 **Student | Self-Taught Technologist**
-💻 Passionate about **Full-Stack Development** & **Cybersecurity**
-🧠 Exploring systems from **design → development → security**
-
-
+🎓 **MCA Student (Master of Computer Applications)**
+📊 Aspiring **Data Analyst | Business Analyst | Cloud Practitioner**
+🧠 Focused on **turning data into insights & scalable solutions**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2"/>
 
 ## 🌟 About Me
 
-* 🔍 Curious about how systems **work, break, and scale**
-* 🛠 Building real-world projects with **end-to-end understanding**
-* 🔐 Focused on **secure, efficient, scalable systems**
-* ⚡ Strong interest in **problem-solving & architecture**
-
-
+* 📊 Passionate about extracting **insights from data**
+* ☁️ Interested in building **scalable cloud-based solutions**
+* 📈 Focused on **data-driven decision making**
+* 🔍 Exploring **business problems through analytics**
+* ⚡ Strong interest in **problem-solving, dashboards & storytelling**
 
 ## 🖥 SYSTEM STATUS
 
 ```bash
 > user: 7vikfox
-> role: student / builder
-> focus: full-stack + cybersecurity
-> mindset: learn -> build -> break -> secure
+> role: MCA student / data enthusiast
+> focus: data analytics + cloud + business insights
+> mindset: collect -> clean -> analyze -> visualize -> decide
 ```
-
-
 
 ## 🌐 My Learning Space
 
@@ -52,7 +48,6 @@
     <img src="https://img.shields.io/badge/📚%20Learning%20Hub-Explore-blue?style=for-the-badge" />
   </a>
 </p>
-
 
 ## 🤝 Connect With Me
 
@@ -71,74 +66,59 @@
   </a>
 </p>
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2"/>
 
 ## 🧰 Tech Stack
 
-
-### 💻 Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python&theme=dark" />
-</p>
-
 ### 📊 Data & Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,mongodb,pandas,numpy&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,mongodb&theme=dark" />
 </p>
 
 <p align="center">
   <b>Excel</b> • <b>Power BI</b> • <b>Pandas</b> • <b>NumPy</b> • <b>Matplotlib</b>
 </p>
 
-### ☁️ Cloud
+### ☁️ Cloud & Platforms
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase&theme=dark" />
 </p>
 
-### 🛡 Cybersecurity & Systems
+<p align="center">
+  <b>AWS</b> • <b>Azure</b> • <b>GCP</b> • <b>Serverless Basics</b>
+</p>
+
+### 🧮 Business & Analysis Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,docker&theme=dark" />
+  <b>Data Cleaning</b> • <b>Data Visualization</b> • <b>Dashboarding</b> • <b>Reporting</b> • <b>SQL Queries</b>
 </p>
 
 ### 🛠 Tools & Environments
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,intellij&theme=dark" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/figma.svg" width="28" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" width="28" />
-</p>
-
-### 🎨 Design & Creativity
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator&theme=dark" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" width="28" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2"/>
 
 ## 🧠 Core Knowledge
 
-* Data Structures & Algorithms
-* Database Management Systems
-* Computer Networking
-* Secure Coding Practices
-* System & Network Fundamentals
-
-
+* Data Analysis & Visualization
+* Database Management Systems (DBMS)
+* Statistics (Basics)
+* Cloud Fundamentals
+* Business Intelligence Concepts
+* Data Cleaning & Preprocessing
 
 ## 🌱 Currently Exploring
 
-* ⚙️ Strengthening **Full-Stack Development**
-* 🔐 Learning **Cybersecurity alongside development**
-* 🚀 Building and securing **real-world projects**
-
-
+* 📊 Advanced **Power BI & Dashboard Design**
+* ☁️ **Cloud Data Pipelines & Storage (AWS/GCP)**
+* 📈 **Business Case Studies & Analytics Projects**
+* 🧠 Improving **SQL & Data Modeling**
 
 ## 📊 GitHub Stats
 
@@ -147,15 +127,11 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=7vikfox&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
-
-
 ## 🐍 Live Activity
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-
 
 ## ⚡ Random Byte
 
@@ -163,19 +139,15 @@
   <img src="https://readme-jokes.vercel.app/api?theme=dark" />
 </p>
 
-
-
 ## ✨ Philosophy
 
-> Curious by nature. Learning by building. Securing by understanding.
-
-
+> Data is only valuable when it drives decisions.
+> Learn it. Analyze it. Use it.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
 ```
-
 
 
 
