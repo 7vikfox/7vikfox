@@ -113,7 +113,7 @@
 
 * Data Analysis & Visualization
 * Database Management Systems (DBMS)
-* Cloud Fundamentals
+* Cloud Fundamentals || Operating System || Networking
 * Business Intelligence Concepts
 * Data Cleaning & Preprocessing
 
