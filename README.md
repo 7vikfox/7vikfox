@@ -1,4 +1,3 @@
-````md
 <!-- 🔥 HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=7vikfox&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Cloud%20|%20Data%20|%20Analytics&descAlignY=60"/>
@@ -70,6 +69,12 @@
 
 ## 🧰 Tech Stack
 
+### Languages :
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,go,ruby,bash,powershell&theme=dark" />
+</p>
+
 ### 📊 Data & Analytics
 
 <p align="center">
@@ -108,7 +113,6 @@
 
 * Data Analysis & Visualization
 * Database Management Systems (DBMS)
-* Statistics (Basics)
 * Cloud Fundamentals
 * Business Intelligence Concepts
 * Data Cleaning & Preprocessing
